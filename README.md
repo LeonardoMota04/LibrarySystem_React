@@ -20,7 +20,6 @@ Um sistema de biblioteca digital desenvolvido com React e TailwindCSS e Firebase
 1. Clone o repositório:
 ```bash
 git clone [URL_DO_REPOSITÓRIO]
-cd library-system-react
 ```
 
 2. Instale as dependências:
